@@ -1,0 +1,8 @@
+{
+name: "music-pack"
+displayName: "Levi Music Pack"
+author: "Darknes Tech Mods inc."
+description: "Remake the original track. Music Mix: Darkness Tech Music"
+version: "0.1 beta"
+minGameVersion: "126"
+}
